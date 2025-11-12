@@ -43,22 +43,39 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=khamdamov200713&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=khamdamov200713&theme=tokyonight" />
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api?username=khamdamov200713&show_icons=true&theme=tokyonight&count_private=true" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api?username=khamdamov200713&show_icons=true&theme=default&count_private=true" media="(prefers-color-scheme: light)" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=khamdamov200713&show_icons=true" alt="GitHub Stats" />
+  </picture>
+
+  <picture>
+    <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=khamdamov200713&theme=tokyonight" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=khamdamov200713&theme=default" media="(prefers-color-scheme: light)" />
+    <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=khamdamov200713" alt="GitHub Streak" />
+  </picture>
 </p>
 
 ---
 
 ### 🧩 Top Languages  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khamdamov200713&layout=compact&theme=tokyonight" height="160"/>
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=khamdamov200713&layout=compact&theme=tokyonight" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=khamdamov200713&layout=compact&theme=default" media="(prefers-color-scheme: light)" />
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khamdamov200713&layout=compact" alt="Top Languages" />
+  </picture>
 </p>
 
 ---
 
 ### 📈 Contribution Graph  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khamdamov200713&theme=tokyo-night" alt="GitHub Activity Graph" />
+  <picture>
+    <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=khamdamov200713&theme=tokyo-night" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=khamdamov200713&theme=github-light" media="(prefers-color-scheme: light)" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=khamdamov200713" alt="GitHub Activity Graph" />
+  </picture>
 </p>
 
 ---
